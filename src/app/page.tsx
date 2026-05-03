@@ -37,6 +37,7 @@ export default function LandingPage() {
         { name: "Contact", id: "contact" },
       ]}
       brandName="Emirhan"
+      button={{ text: "Book Now", href: "#contact" }}
     />
   </div>
 

@@ -51,7 +51,7 @@ export default function LandingPage() {
         { value: "Premium", label: "Fine Dining" },
       ]}
       enableKpiAnimation={true}
-      buttons={[{ text: "Reserve a Table", href: "#contact" }]}
+      buttons={[{ text: "Book Your Table", href: "#contact" }]}
       imageSrc="http://img.b2bpic.net/free-photo/beautiful-colorful-sunset-sea-sun-shines-orange-sky_146671-18814.jpg?_wi=1"
       imageAlt="Luxurious veranda overlooking Samarkand"
       mediaAnimation="blur-reveal"

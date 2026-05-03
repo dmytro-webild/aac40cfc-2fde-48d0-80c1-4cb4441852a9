@@ -118,6 +118,7 @@ export default function LandingPage() {
       faqs={[
         { id: "1", title: "Is a reservation required?", content: "Reservations are strongly encouraged for our veranda seating to ensure a premium experience." },
         { id: "2", title: "What is the dress code?", content: "Smart-casual elegance is appreciated to match the sophisticated ambiance of our dining room." },
+        { id: "3", title: "How long is the reservation held?", content: "Reservations are held for 15 minutes past the booking time to ensure optimal service flow; please notify us if you are running late." },
       ]}
       title="Common Questions"
       description="Your guide to a flawless visit."

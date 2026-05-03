@@ -84,7 +84,7 @@ export default function LandingPage() {
           href: "#contact",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/beautiful-colorful-sunset-sea-sun-shines-orange-sky_146671-18814.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/beautiful-colorful-sunset-sea-sun-shines-orange-sky_146671-18814.jpg?_wi=1"
       imageAlt="View of Samarkand from Emirhan veranda"
       mediaAnimation="blur-reveal"
       avatars={[
@@ -155,25 +155,25 @@ export default function LandingPage() {
           id: "1",
           name: "Traditional Plov",
           price: "$12",
-          imageSrc: "http://img.b2bpic.net/free-photo/top-view-delicious-plov-cooked-rice-meal-with-raisins-inside-pan-dark-surface-food-rice-eastern-dinner-meal_140725-101795.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/top-view-delicious-plov-cooked-rice-meal-with-raisins-inside-pan-dark-surface-food-rice-eastern-dinner-meal_140725-101795.jpg?_wi=1",
         },
         {
           id: "2",
           name: "Jiz-Biz",
           price: "$15",
-          imageSrc: "http://img.b2bpic.net/free-photo/fried-chicken-with-onions-table_140725-2396.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/fried-chicken-with-onions-table_140725-2396.jpg?_wi=1",
         },
         {
           id: "3",
           name: "Laghman",
           price: "$10",
-          imageSrc: "http://img.b2bpic.net/free-photo/vertical-high-angle-shot-bowl-noodles-meat-some-chopsticks-table_181624-19341.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/vertical-high-angle-shot-bowl-noodles-meat-some-chopsticks-table_181624-19341.jpg?_wi=1",
         },
         {
           id: "4",
           name: "Crispy Eggplant Salad",
           price: "$9",
-          imageSrc: "http://img.b2bpic.net/free-photo/vegetable-salad-topped-with-sesame_140725-4321.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/vegetable-salad-topped-with-sesame_140725-4321.jpg?_wi=1",
         },
         {
           id: "5",
@@ -206,7 +206,7 @@ export default function LandingPage() {
           quote: "Excellent service and truly authentic flavors.",
           tag: "Verified",
           avatarSrc: "http://img.b2bpic.net/free-photo/close-up-people-spending-time-together_23-2149152906.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/beautiful-colorful-sunset-sea-sun-shines-orange-sky_146671-18814.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/beautiful-colorful-sunset-sea-sun-shines-orange-sky_146671-18814.jpg?_wi=2",
           imageAlt: "portrait happy customer restaurant",
         },
         {
@@ -217,7 +217,7 @@ export default function LandingPage() {
           quote: "The veranda view at sunset is breathtaking.",
           tag: "Verified",
           avatarSrc: "http://img.b2bpic.net/free-photo/portrait-waitress-standing-with-arms-crossed_107420-12323.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/top-view-delicious-plov-cooked-rice-meal-with-raisins-inside-pan-dark-surface-food-rice-eastern-dinner-meal_140725-101795.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/top-view-delicious-plov-cooked-rice-meal-with-raisins-inside-pan-dark-surface-food-rice-eastern-dinner-meal_140725-101795.jpg?_wi=2",
           imageAlt: "portrait happy customer restaurant",
         },
         {
@@ -228,7 +228,7 @@ export default function LandingPage() {
           quote: "The best Plov in Samarkand, hands down.",
           tag: "Verified",
           avatarSrc: "http://img.b2bpic.net/free-photo/adults-enjoying-mexican-food_23-2149663851.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/fried-chicken-with-onions-table_140725-2396.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/fried-chicken-with-onions-table_140725-2396.jpg?_wi=2",
           imageAlt: "portrait happy customer restaurant",
         },
         {
@@ -239,7 +239,7 @@ export default function LandingPage() {
           quote: "Warm atmosphere and professional staff.",
           tag: "Verified",
           avatarSrc: "http://img.b2bpic.net/free-photo/portrait-senior-man-luxurious-restaurant_23-2150517397.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/vertical-high-angle-shot-bowl-noodles-meat-some-chopsticks-table_181624-19341.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/vertical-high-angle-shot-bowl-noodles-meat-some-chopsticks-table_181624-19341.jpg?_wi=2",
           imageAlt: "portrait happy customer restaurant",
         },
         {
@@ -250,7 +250,7 @@ export default function LandingPage() {
           quote: "Flavorful and beautifully presented dishes.",
           tag: "Verified",
           avatarSrc: "http://img.b2bpic.net/free-photo/full-shot-smiley-woman-taking-selfie_23-2149333777.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/vegetable-salad-topped-with-sesame_140725-4321.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/vegetable-salad-topped-with-sesame_140725-4321.jpg?_wi=2",
           imageAlt: "portrait happy customer restaurant",
         },
       ]}

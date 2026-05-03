@@ -11,7 +11,6 @@ import NavbarStyleCentered from '@/components/navbar/NavbarStyleCentered/NavbarS
 import ProductCardTwo from '@/components/sections/product/ProductCardTwo';
 import TestimonialCardFive from '@/components/sections/testimonial/TestimonialCardFive';
 import TextAbout from '@/components/sections/about/TextAbout';
-import { Calendar, Mountain } from "lucide-react";
 
 export default function LandingPage() {
   return (
@@ -68,6 +67,7 @@ export default function LandingPage() {
 
   <div id="menu" data-section="menu">
       <ProductCardTwo
+      useInvertedBackground={false}
       animationType="blur-reveal"
       textboxLayout="split"
       gridVariant="bento-grid"
@@ -96,6 +96,7 @@ export default function LandingPage() {
 
   <div id="gallery" data-section="gallery">
       <MetricCardTwo
+      useInvertedBackground={false}
       animationType="depth-3d"
       textboxLayout="split"
       gridVariant="bento-grid"

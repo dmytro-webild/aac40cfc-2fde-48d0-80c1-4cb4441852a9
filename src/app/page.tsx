@@ -5,7 +5,7 @@ import ReactLenis from "lenis/react";
 import ContactCTA from '@/components/sections/contact/ContactCTA';
 import FaqDouble from '@/components/sections/faq/FaqDouble';
 import FooterBase from '@/components/sections/footer/FooterBase';
-import HeroSplitKpi from '@/components/sections/hero/HeroSplitKpi';
+import HeroOverlay from '@/components/sections/hero/HeroOverlay';
 import MetricCardTwo from '@/components/sections/metrics/MetricCardTwo';
 import NavbarStyleCentered from '@/components/navbar/NavbarStyleCentered/NavbarStyleCentered';
 import ProductCardTwo from '@/components/sections/product/ProductCardTwo';
@@ -42,20 +42,15 @@ export default function LandingPage() {
   </div>
 
   <div id="home" data-section="home">
-      <HeroSplitKpi
-      background={{ variant: "radial-gradient" }}
+      <HeroOverlay
       title="An Elevated Gastronomic Experience"
       description="Sophisticated flavors meet an unforgettable atmosphere with the best view in Samarkand."
-      kpis={[
-        { value: "4.8", label: "Guest Rating" },
-        { value: "15:00", label: "Sunset Hours" },
-        { value: "Premium", label: "Fine Dining" },
-      ]}
-      enableKpiAnimation={true}
-      buttons={[{ text: "Book Your Table", href: "#contact" }]}
+      showDimOverlay={true}
+      showBlur={true}
+      textPosition="bottom"
       imageSrc="http://img.b2bpic.net/free-photo/beautiful-colorful-sunset-sea-sun-shines-orange-sky_146671-18814.jpg?_wi=1"
       imageAlt="Luxurious veranda overlooking Samarkand"
-      mediaAnimation="blur-reveal"
+      buttons={[{ text: "Book Your Table", href: "#contact" }]}
     />
   </div>
 
